@@ -1,0 +1,16 @@
+.team-box{
+    display: flex;
+    margin: 100px auto;
+}  
+.team{
+    width: 28%;
+    text-align: center;
+}
+.team img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.form-group{
+    margin: 20px auto;
+}
